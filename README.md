@@ -5,7 +5,6 @@ relax and enjoy the game again.
 ## features
 - no elytra
 - no totems
-- no enchant loot
 - no librarians
 - no endermites
 - no enchanted loot in chests
