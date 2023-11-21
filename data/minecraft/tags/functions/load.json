@@ -1,0 +1,8 @@
+{"replace":false,"values":[
+    "afk_display:load",
+    "afk_display:second",
+    "unlock_all_recipes:unlock_recipes",
+    "multiplayer_sleep:load",
+    "multiplayer_sleep:tick",
+    "multiplayer_sleep:enable_trigger"
+]}
