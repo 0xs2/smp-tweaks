@@ -1,4 +1,5 @@
 {"replace":false,"values":[
+    "smp-tweaks:load",
     "afk_display:load",
     "afk_display:second",
     "unlock_all_recipes:unlock_recipes",
