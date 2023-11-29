@@ -1,4 +1,4 @@
-# smp-tweaks
+# unmicrocraft
 
 say bye to autofarms and the end of the game.
 
