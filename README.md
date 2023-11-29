@@ -1,7 +1,7 @@
 # unmicrocraft
 
-say bye to autofarms and the end of the game.
-
+makes 1.20 like pre b1.9 
+ 
 ## features
 - no elytra
 - no totems
@@ -13,6 +13,9 @@ say bye to autofarms and the end of the game.
 - no raids, villages or villagers
 - no patrol spawning
 - no warden spawning
+
+## recommended
+- use 'retroterrain' for the best experience 
 
 ## taken from vanilla tweaks 
 - no enderman grief
