@@ -21,3 +21,6 @@ makes 1.20 like pre b1.9
 - no enderman grief
 - multiplayer sleep
 - afk display
+
+
+just play 'better than adventure' lmao.
